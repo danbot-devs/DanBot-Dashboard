@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/918ec7f36a194208ab599a63f0c7bbd6)](https://app.codacy.com/app/danielpmc/DanBot-Dashboard?utm_source=github.com&utm_medium=referral&utm_content=danbot-devs/DanBot-Dashboard&utm_campaign=Badge_Grade_Settings)
+
 ![Danbot](https://cdn.danbot.xyz/Danbot-text.png)
 
 [Invite](https://danbot.xyz/invite)
