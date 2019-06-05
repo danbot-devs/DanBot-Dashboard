@@ -1,4 +1,4 @@
-const moment = require('moment')
+const moment = require('moment');
 module.exports = async(client, message) => {
     //Dashboard Owner Sync
     client.appInfo = await client.fetchApplication();
